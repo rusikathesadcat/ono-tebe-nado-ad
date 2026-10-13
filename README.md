@@ -1,1 +1,1 @@
-https://github.com/Gonsales2/ono-tebe-nado-ad.git
+https://github.com/rusikathesadcat/ono-tebe-nado-ad.git
